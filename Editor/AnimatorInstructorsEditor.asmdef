@@ -1,0 +1,16 @@
+{
+    "name": "AnimatorInstructorsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:966807abcb8ac8c4a8a4e8027764e55f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
