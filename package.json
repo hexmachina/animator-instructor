@@ -3,5 +3,9 @@
     "version": "1.0.0",
     "unity": "6000.0",
     "displayName": "Animator Instructor",
-    "description": "Send commands to the Animator component"
+    "description": "Send commands to the Animator component",
+    "author": {
+        "name": "Tom Wilhelm",
+        "url": "https://www.tom-wilhelm.com"
+    }
 }
