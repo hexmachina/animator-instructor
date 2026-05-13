@@ -1,7 +1,9 @@
 {
     "name": "AnimatorInstructors",
     "rootNamespace": "TW.Animators.Instructors",
-    "references": [],
+    "references": [
+        "GUID:a52205e7ac412bf49a6e469ab6e6e08c"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

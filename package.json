@@ -1,11 +1,14 @@
 {
     "name": "com.tw.animator-instructor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.0",
     "displayName": "Animator Instructor",
     "description": "Send commands to the Animator component",
     "author": {
         "name": "Tom Wilhelm",
         "url": "https://www.tom-wilhelm.com"
+    },
+    "dependencies": {
+        "com.tw.attributes": "https://github.com/hexmachina/tw-attributes.git"
     }
 }
