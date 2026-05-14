@@ -9,6 +9,6 @@
         "url": "https://www.tom-wilhelm.com"
     },
     "dependencies": {
-        "com.tw.attributes": "https://github.com/hexmachina/tw-attributes.git"
+        "com.tw.attributes": "https://github.com/hexmachina/tw-attributes.git#1.0.0"
     }
 }
